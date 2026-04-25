@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cursor-setup-task
 
 ## Overview
@@ -51,3 +52,6 @@ This repository documents the setup and configuration of Cursor IDE along with r
 
 ## Outcome
 Successfully set up Cursor IDE, configured required extensions, created a GitHub repository, and pushed the project with proper documentation.
+=======
+# cursor-setup-task
+>>>>>>> 6d38d140829e662f3702958fe5e5a3830d0204b2
