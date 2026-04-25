@@ -29,7 +29,7 @@
 
 ---
 
-## Practical Exploration (Key Differentiator)
+## Practical Exploration 
 
 To move beyond setup, I tested Cursor in a real scenario:
 
@@ -85,8 +85,8 @@ This project helped me understand:
  
 
 ## Screenshots: The git push & cursor interface: <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dfc0df68-8d47-499e-9a84-1c645f220328" /> 
-The extensions: 
-<img width="719" height="474" alt="image" src="https://github.com/user-attachments/assets/a4ace05b-fa6d-4d17-ac14-08a32036b85d" />
+The extensions: <img width="853" height="714" alt="image" src="https://github.com/user-attachments/assets/e3c818f5-ef3b-4caf-951d-c66d1485edf2" />
+
 
 
 
