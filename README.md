@@ -42,6 +42,12 @@
 - Git setup is essential for connecting local work to GitHub  
 - Understanding basic Git commands (init, add, commit, push) is crucial for workflow  
 
+## Screenshots: The git push: <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dfc0df68-8d47-499e-9a84-1c645f220328" /> 
+The extensions: 
+<img width="719" height="474" alt="image" src="https://github.com/user-attachments/assets/a4ace05b-fa6d-4d17-ac14-08a32036b85d" />
+
+
+
 ---
 
 ## Outcome
