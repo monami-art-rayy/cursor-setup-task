@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # cursor-setup-task
-
-## Overview
-This repository documents the setup and configuration of Cursor IDE along with required extensions and GitHub integration. The goal was to explore a modern AI-assisted development environment and understand how it integrates with version control workflows.
-
----
 
 ## Tools Installed
 - Cursor IDE (AI-powered code editor)
